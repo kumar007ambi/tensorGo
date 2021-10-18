@@ -1,0 +1,22 @@
+{
+  "name": "updateuser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fast-csv/format": "^4.3.5",
+    "@fast-csv/parse": "^4.3.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csv-stringify": "^5.6.5",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "mongoose": "^6.0.6",
+    "path": "^0.12.7"
+  }
+}
